@@ -12,6 +12,13 @@ This repository contains code to implement a fully serverless, event-driven docu
 
 ---
 
+## 🖥️ Live Dashboard
+
+You can view the interactive document processing dashboard via the live Cloud Run endpoint:  
+👉 **[Live Dashboard URL](https://document-processor-oupkxh5lxa-uc.a.run.app/dashboard)**
+
+---
+
 ## Directory Structure
 
 ```
