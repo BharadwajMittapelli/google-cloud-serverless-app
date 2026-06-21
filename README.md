@@ -91,7 +91,7 @@ chmod +x test_cloud.sh
 ./test_cloud.sh
 ```
 
-This will automatically create a sample document, upload it to your ingestion bucket, wait a few seconds, and query the BigQuery table to display the ingested metadata.
+This will automatically create a sample document, upload it to your ingestion bucket, wait a few seconds, and query the BigQuery table to display the ingested metadata & markdown file.
 
 ---
 
